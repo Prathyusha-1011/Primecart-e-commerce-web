@@ -281,23 +281,12 @@ Developing PrimeCart provided hands-on experience in:
 
 # 👩‍💻 Author
 
-**Prathyusha**
+**Prathyusha Satheesh**
 
 Bachelor of Science in Artificial Intelligence & Data Science
 
 KPR College of Arts, Science and Research
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
----
-
-# 📄 License
-
-This project has been developed for educational and portfolio purposes.
-
-Feel free to fork, modify, and enhance the project for learning.
 
 ---
 
